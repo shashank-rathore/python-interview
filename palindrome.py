@@ -11,5 +11,4 @@ if STRING == REV_SRTING:
     print("Hurray! You have passed a palandrome string.")
 else:
     print("You have passed a normal string. please try again!")
-
-
+    
