@@ -1,4 +1,4 @@
-#Write a python program to reverse a string
+"""Write a python program to reverse a string"""
 
 # read input from command prompt
 STRING=input("Give me a sentence to reverse:")
