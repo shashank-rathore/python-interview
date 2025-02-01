@@ -1,2 +1,2 @@
 # python-interview
-repository for keeping python interviw questions and coding practice.
+repository for keeping python interview questions and coding practice.
